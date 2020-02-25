@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DeepNetTrainProgram.cs" />
     <Compile Include="KernelLogisticProgram.cs" />
     <Compile Include="KNNProgram.cs" />
+    <Compile Include="NeuralTimeSeriesProgram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
